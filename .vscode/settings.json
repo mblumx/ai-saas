@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["Brainiac", "nextjs"]
+  "cSpell.words": ["Brainiac", "nextjs"],
+  "cSpell.ignoreWords": ["_next"]
 }
